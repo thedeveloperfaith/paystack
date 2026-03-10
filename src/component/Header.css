@@ -1,0 +1,45 @@
+.header{
+    width:100%;
+}
+
+.header_container{
+    width:90%;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.header_left{
+    display:flex;
+    align-items:center;
+    gap:40px;
+}
+.paystack_image{
+    width: 30%;
+}
+
+.header_nav{
+    display:flex;
+    gap:25px;
+    list-style:none;
+}
+
+.header_right{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+.free_acct{
+    background-color: green;
+    color: white;
+    font-size: bold;
+    padding: 15px 30px;
+    border: none;
+}
+
+.other_nav{
+    display:flex;
+    gap:20px;
+    list-style:none;
+}

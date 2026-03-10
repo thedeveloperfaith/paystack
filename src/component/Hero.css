@@ -1,0 +1,49 @@
+.hero_container{
+    display: flex;
+    background-color: whitesmoke;
+    height: 60vh;
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+    
+}
+
+.hero_button{
+    display: flex;
+    gap: 1rem;
+    /* align-items: center; */
+    /* background-color: pink; */
+    width: 35%;
+
+}
+.inc{
+    width: 95%;
+    /* background-color: pink; */
+}
+.hero_Left{
+    /* background-color: green; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+
+.create{
+    background-color: green;
+    color: white;
+    font-size: bold;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.sales{
+    background:none;
+    color: green;
+    font-size: bold;
+    /* padding: 15px 30px; */
+    border: none;
+
+}

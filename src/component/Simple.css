@@ -1,0 +1,23 @@
+.simple_part{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 60vh;
+    width: 100%;
+    flex-direction: column;
+    /* background-color: red; */
+  
+
+}
+
+.simple{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.building{
+    margin-left: 30px;
+    font-size: 20px;
+
+}
