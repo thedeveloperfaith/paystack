@@ -1,0 +1,40 @@
+.power_container{
+  width: 100%;
+  padding: 80px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main{
+  text-align:left;
+  /* background-color: aqua; */
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.main h1{
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+
+.main p{
+  font-size: 16px;
+  line-height: 1.6;
+}
+.row_images{
+  max-width: 1100px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  gap: 40px;
+  align-items: center;
+  
+  &.row_images img{
+  width: 100px;
+}
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

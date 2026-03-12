@@ -1,0 +1,26 @@
+.all{
+    /* background-color: blue; */
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.heroine{
+    margin-left: 10px;
+}
+h2{
+    margin-bottom: 15px;
+    font-size: larger;
+    font-weight: 200;
+}
+.free{
+    margin-right: 20px;
+}
+.free_acct{
+    background-color: green;
+    color: white;
+    font-size: bold;
+    padding: 15px 30px;
+    border: none;
+}

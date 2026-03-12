@@ -2,8 +2,13 @@ import Header from "./component/Header"
 import Button from "./component/Button"
 import Hero from "./component/Hero"
 import Simple from "./component/Simple"
-import ImagesAndText from "./component/ImagesAndText"
+import Reflex from "./component/Reflex"
 import Cards from "./component/Cards"
+import Power from "./component/Power"
+import AnotherCards from "./component/AnotherCards"
+import Start from "./component/Start"
+import OneFooter from "./component/OneFooter"
+import TwoFooter from "./component/TwoFooter"
 function App() {
  
 
@@ -13,8 +18,13 @@ function App() {
     <Button/>
     <Hero/>
     <Simple/>
-    <ImagesAndText/>
+    <Reflex/>
     <Cards/>
+    <Power/>
+    <AnotherCards/>
+    <Start/>
+    <OneFooter/>
+    <TwoFooter/>
       
     </>
   )

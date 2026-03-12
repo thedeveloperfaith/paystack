@@ -1,0 +1,40 @@
+.footer_contacts{
+  width: 100%;
+  color: black;
+}
+h2{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.stripe{
+     p{
+       margin-bottom: 5px;
+    }
+}
+h3{
+    text-align: left;
+}
+
+.contact_header p{
+  color: black;
+  font-size: 15px;
+}
+
+.offices_container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.office h4{
+  color: black;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.office p{
+    text-align: center;
+  color: black;
+  font-size: 14px;
+}
